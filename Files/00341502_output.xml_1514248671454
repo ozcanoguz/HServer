@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Product-Data PUBLIC "-//BSHG//PICenter Product Data 1.0//en" "picenter_input.dtd">
+
+
+
+<Product-Data>
+
+  <CS-Product CSMATNR="00341502" material-type="ZAWE" material-unit="PQ" product-family="Customer_Service_Products" product-hierarchy="AW4" packaging-note="0001" DSIB="no">
+
+    <Regional-Information country="AT" csmatnr="" price-group="PG990" regional-status="AS" tax-classification="1" />
+
+    <Regional-Information country="DE" csmatnr="" price-group="PG990" regional-status="AS" tax-classification="1" />
+
+    <PI-Release countries="" />
+
+    <Prodis-Release locales="" />
+
+    <PVM-Header>
+
+      <Structured-Text locale="de-AT">
+
+        <Text-Item textblock-name="Infotext line 1">wie 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester im Einsatzgehaeuse, Ausfuerung DE</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="de-BSH">
+
+        <Text-Item textblock-name="Infotext line 1">wie 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester im Einsatzgehaeuse, Ausfuerung DE</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="de-CH">
+
+        <Text-Item textblock-name="Infotext line 1">wie 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester im Einsatzgehaeuse, Ausfuerung DE</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="de-DE">
+
+        <Text-Item textblock-name="Infotext line 1">wie 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester im Einsatzgehaeuse, Ausfuerung DE</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="de-LU">
+
+        <Text-Item textblock-name="Infotext line 1">wie 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester im Einsatzgehaeuse, Ausfuerung DE</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-AU">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-BSH">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-CA">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-ES">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-GB">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-GH">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-HK">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-ID">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-IE">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-IN">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-IR">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-KE">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-KR">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-KW">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-MY">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-NENA">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-NG">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-NZ">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-SA">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-SG">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-SI">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-TH">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-TW">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-UAE">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-US">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-VNE">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-ZA">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+      <Structured-Text locale="en-ZZ">
+
+        <Text-Item textblock-name="Infotext line 1">as 341480</Text-Item>
+
+        <Text-Item textblock-name="Infotext line 2">iService Appliance Tester in toolbox version, version DE.</Text-Item>
+
+      </Structured-Text>
+
+    </PVM-Header>
+
+    <PVM-Text />
+
+    <Hookline />
+
+    <MAKTX>
+
+      <Text locale="cs-CZ">Tester Appliance, směsice</Text>
+
+      <Text locale="da-DK">Appliance testerpulje</Text>
+
+      <Text locale="de-AT">ApplianceTester Pool</Text>
+
+      <Text locale="de-BSH">ApplianceTester Pool</Text>
+
+      <Text locale="de-CH">ApplianceTester Pool</Text>
+
+      <Text locale="de-DE">ApplianceTester Pool</Text>
+
+      <Text locale="de-LU">ApplianceTester Pool</Text>
+
+      <Text locale="el-GR">Δοκιμαστική συσκευή σετ</Text>
+
+      <Text locale="en-AU">Appliance tester pool</Text>
+
+      <Text locale="en-BSH">Appliance tester pool</Text>
+
+      <Text locale="en-CA">Appliance tester pool</Text>
+
+      <Text locale="en-ES">Appliance tester pool</Text>
+
+      <Text locale="en-GB">Appliance tester pool</Text>
+
+      <Text locale="en-GH">Appliance tester pool</Text>
+
+      <Text locale="en-HK">Appliance tester pool</Text>
+
+      <Text locale="en-ID">Appliance tester pool</Text>
+
+      <Text locale="en-IE">Appliance tester pool</Text>
+
+      <Text locale="en-IN">Appliance tester pool</Text>
+
+      <Text locale="en-IR">Appliance tester pool</Text>
+
+      <Text locale="en-KE">Appliance tester pool</Text>
+
+      <Text locale="en-KR">Appliance tester pool</Text>
+
+      <Text locale="en-KW">Appliance tester pool</Text>
+
+      <Text locale="en-MY">Appliance tester pool</Text>
+
+      <Text locale="en-NENA">Appliance tester pool</Text>
+
+      <Text locale="en-NG">Appliance tester pool</Text>
+
+      <Text locale="en-NZ">Appliance tester pool</Text>
+
+      <Text locale="en-SA">Appliance tester pool</Text>
+
+      <Text locale="en-SG">Appliance tester pool</Text>
+
+      <Text locale="en-SI">Appliance tester pool</Text>
+
+      <Text locale="en-TH">Appliance tester pool</Text>
+
+      <Text locale="en-TW">Appliance tester pool</Text>
+
+      <Text locale="en-UAE">Appliance tester pool</Text>
+
+      <Text locale="en-US">Appliance tester pool</Text>
+
+      <Text locale="en-VNE">Appliance tester pool</Text>
+
+      <Text locale="en-ZA">Appliance tester pool</Text>
+
+      <Text locale="en-ZZ">Appliance tester pool</Text>
+
+      <Text locale="es-CL">Surtido de comprobadores de aparatos</Text>
+
+      <Text locale="es-CO">Surtido de comprobadores de aparatos</Text>
+
+      <Text locale="es-ES">Surtido de comprobadores de aparatos</Text>
+
+      <Text locale="es-MX">Surtido de comprobadores de aparatos</Text>
+
+      <Text locale="es-PE">Surtido de comprobadores de aparatos</Text>
+
+      <Text locale="fi-FI">Laitetesterikokoelma</Text>
+
+      <Text locale="fr-BE">Set Testeur d'appareil</Text>
+
+      <Text locale="fr-CA">Set Testeur d'appareil</Text>
+
+      <Text locale="fr-CH">Set Testeur d'appareil</Text>
+
+      <Text locale="fr-FR">Set Testeur d'appareil</Text>
+
+      <Text locale="fr-LU">Set Testeur d'appareil</Text>
+
+      <Text locale="fr-MA">Set Testeur d'appareil</Text>
+
+      <Text locale="fr-NENA">Set Testeur d'appareil</Text>
+
+      <Text locale="hu-HU">Készülékvizsgáló szett</Text>
+
+      <Text locale="it-CH">Gruppo tester apparecchi</Text>
+
+      <Text locale="it-IT">Gruppo tester apparecchi</Text>
+
+      <Text locale="nl-BE">Appliance tester pool</Text>
+
+      <Text locale="nl-NL">Appliance tester pool</Text>
+
+      <Text locale="no-NO">Apparat tester pool</Text>
+
+      <Text locale="pl-PL">Pula testerów urządzeń</Text>
+
+      <Text locale="pt-AO">Conjunto de aparelhos de testes a equipa</Text>
+
+      <Text locale="pt-PT">Conjunto de aparelhos de testes a equipa</Text>
+
+      <Text locale="ru-BALTIC">Фонд тестеров оборудования</Text>
+
+      <Text locale="ru-BUCAT">Фонд тестеров оборудования</Text>
+
+      <Text locale="ru-KZ">Фонд тестеров оборудования</Text>
+
+      <Text locale="ru-RU">Фонд тестеров оборудования</Text>
+
+      <Text locale="sk-SK">Skupina testovacích zariadení</Text>
+
+      <Text locale="sl-SI">Izbor večfunkcijskih preizkusnih naprav</Text>
+
+      <Text locale="sv-SE">Produkttestare sats</Text>
+
+      <Text locale="tr-BUCAT">Araç test cihazı havuzu</Text>
+
+      <Text locale="tr-TR">Araç test cihazı havuzu</Text>
+
+      <Text locale="uk-UA">Запас тестерів для перевірки електроприл</Text>
+
+    </MAKTX>
+
+    <PI-Properties>
+
+      <String-Property name="ART_NUM">
+
+        <Text locale="all">00341502</Text>
+
+      </String-Property>
+
+      <Enum-Property name="BSHM_BAUR" value="" />
+
+      <String-Property name="BSHM_CPH">
+
+        <Text locale="all" />
+
+      </String-Property>
+
+      <Enum-Property name="BVC_Customer_Service_Products" value="NOT IMPLEMENTED" />
+
+      <Boolean-Property name="COLOR_CLASS_GREY" value="no" />
+
+      <Boolean-Property name="COLOR_CLASS_YELLOW" value="no" />
+
+      <Enum-Property name="CONSTRUCTION_TYPE_GROUP" value="" />
+
+      <String-Property name="Customer_Service_EAN11">
+
+        <Text locale="all" />
+
+      </String-Property>
+
+      <Boolean-Property name="DontCheckProductDataComplete" value="yes" />
+
+      <Boolean-Property name="DontCheckProductImageExists" value="no" />
+
+      <Enum-Property name="HE_HEADER1" value="" />
+
+      <String-Property name="HE_HEADER6">
+
+        <Text locale="all">00341502</Text>
+
+      </String-Property>
+
+      <Boolean-Property name="RelevantForDeBsh" value="yes" />
+
+      <Boolean-Property name="RelevantForEnBsh" value="yes" />
+
+      <Boolean-Property name="RelevantForPICenter" value="yes" />
+
+    </PI-Properties>
+
+    <Media-Data>
+
+      <Standard-Image />
+
+      <Other-Images />
+
+    </Media-Data>
+
+  </CS-Product>
+
+</Product-Data>
+
+
+
